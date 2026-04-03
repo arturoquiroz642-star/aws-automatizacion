@@ -1,0 +1,8 @@
+2026-04-02 23:45:10 - ERROR: El directorio /home/ec2-user/respaldo_prueba no existe.
+2026-04-02 23:46:23 - ERROR: El directorio /home/ec2-user/respaldo_prueba no existe.
+2026-04-03 01:32:26 - Iniciando respaldo de /home/ec2-user/respaldo_prueba
+2026-04-03 01:32:26 - Compresión completada: backup_2026-04-03_01-32-24.tar.gz
+2026-04-03 01:32:26 - Subiendo archivo a s3://mi-bucket-chris/
+Completed 241 Bytes/241 Bytes (3.5 KiB/s) with 1 file(s) remainingupload: ./backup_2026-04-03_01-32-24.tar.gz to s3://mi-bucket-chris/backup_2026-04-03_01-32-24.tar.gz
+2026-04-03 01:32:27 - Respaldo subido exitosamente.
+2026-04-03 01:32:27 - Proceso finalizado.

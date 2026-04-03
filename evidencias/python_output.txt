@@ -1,0 +1,14 @@
+/home/ec2-user/.local/lib/python3.9/site-packages/boto3/compat.py:89: PythonDeprecationWarning: Boto3 will no longer support Python 3.9 starting April 29, 2026. To continue receiving service updates, bug fixes, and security updates please upgrade to Python 3.10 or later. More information can be found here: https://aws.amazon.com/blogs/developer/python-support-policy-updates-for-aws-sdks-and-tools/
+  warnings.warn(warning, PythonDeprecationWarning)
+--- Listado de Instancias EC2 ---
+ID: i-0d5e7a9906d8786c8 - Estado: running
+ID: i-02f69a8557937b09a - Estado: running
+
+--- Gestionando instancia i-0d5e7a9906d8786c8 (estado actual: running) ---
+Deteniendo instancia i-0d5e7a9906d8786c8...
+Instancia i-0d5e7a9906d8786c8 detenida.
+
+--- Listado actualizado después de la gestión ---
+--- Listado de Instancias EC2 ---
+ID: i-0d5e7a9906d8786c8 - Estado: stopping
+ID: i-02f69a8557937b09a - Estado: running
